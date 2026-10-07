@@ -1,0 +1,4 @@
+period,department,employee_count,gross_salary,bonus,tax,benefits,total_payroll_cost
+2026-10,Engineering,10,500000,50000,50000,30000,580000
+2026-10,Sales & Marketing,8,380000,45000,38000,22000,447000
+2026-10,Operations & Admin,7,250000,15000,22000,18000,283000

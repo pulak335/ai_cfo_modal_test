@@ -1,0 +1,4 @@
+transaction_id,account_id,transaction_date,transaction_type,category,description,amount,balance_after,reference,payment_method
+BT001,BANK001,2026-10-05,Credit,Sales,Customer payment,150000,1250000,TXN12345,Bank Transfer
+BT002,BANK001,2026-10-05,Debit,Rent,Office rent payment,120000,1130000,TXN12346,Bank Transfer
+BT003,BANK002,2026-10-06,Credit,Sales,Client settlement,85000,585000,TXN12347,EFT

@@ -1,0 +1,4 @@
+receivable_id,customer_id,invoice_id,invoice_date,due_date,invoice_amount,paid_amount,outstanding_amount,days_overdue,status
+AR001,CUST001,INV001,2026-09-01,2026-09-30,100000,60000,40000,8,Overdue
+AR002,CUST002,INV002,2026-10-02,2026-10-16,124200,50000,74200,0,Pending
+AR003,CUST003,INV003,2026-09-15,2026-09-30,65550,0,65550,8,Overdue

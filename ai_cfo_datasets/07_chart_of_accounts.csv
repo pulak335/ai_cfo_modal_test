@@ -1,0 +1,6 @@
+account_id,account_code,account_name,account_type,parent_account,normal_balance,active
+ACC001,4001,Product Sales,Revenue,Sales,Credit,Yes
+ACC002,1001,Cash and Cash Equivalents,Asset,Current Assets,Debit,Yes
+ACC003,2001,Accounts Payable,Liability,Current Liabilities,Credit,Yes
+ACC004,5001,Cost of Goods Sold,Cost of Goods Sold,Operating Costs,Debit,Yes
+ACC005,6001,Marketing & Advertising,Operating Expense,Operating Expenses,Debit,Yes

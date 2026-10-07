@@ -1,0 +1,4 @@
+expense_id,date,category,subcategory,vendor_id,description,amount,tax,payment_status,payment_method,recurring,department
+EXP001,2026-10-03,Marketing,Facebook Ads,VEN001,October campaign,50000,7500,Paid,Bank,Yes,Marketing
+EXP002,2026-10-05,Rent,Office Rent,VEN004,Headquarters monthly rent,120000,0,Paid,Bank Transfer,Yes,Operations
+EXP003,2026-10-06,Software,Cloud & SaaS,VEN003,AWS Cloud Hosting,35000,5250,Paid,Credit Card,Yes,Engineering

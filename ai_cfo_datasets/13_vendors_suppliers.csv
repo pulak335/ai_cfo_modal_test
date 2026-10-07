@@ -1,0 +1,4 @@
+vendor_id,vendor_name,category,total_purchase,outstanding_amount,average_payment_days,status
+VEN001,Supplier A (Meta Ads),Marketing Services,5000000,500000,30,Active
+VEN002,Tech Distribution Ltd,Raw Material & Stock,12500000,300000,25,Active
+VEN003,Cloud Infra Providers,IT & Cloud Services,420000,35000,15,Active

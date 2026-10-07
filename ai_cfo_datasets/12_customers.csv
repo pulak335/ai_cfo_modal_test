@@ -1,0 +1,4 @@
+customer_id,customer_type,industry,acquisition_date,total_revenue,order_count,average_order_value,last_purchase_date,payment_behavior,status
+CUST001,Business,Retail,2026-01-10,1500000,25,60000,2026-10-01,15_days,Active
+CUST002,Business,Manufacturing,2026-02-15,2400000,18,133333,2026-10-02,30_days,Active
+CUST003,Wholesale,Electronics,2026-05-20,850000,12,70833,2026-10-03,15_days,Active

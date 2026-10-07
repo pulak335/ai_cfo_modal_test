@@ -1,0 +1,4 @@
+product_id,product_name,category,opening_stock,purchases,units_sold,closing_stock,unit_cost,selling_price,inventory_value,reorder_level
+PROD001,Laptop,Electronics,100,50,80,70,45000,55000,3150000,20
+PROD002,Desktop Monitor,Electronics,60,40,35,65,16000,22000,1040000,15
+PROD003,Ergonomic Keyboard,Accessories,200,100,120,180,800,1200,144000,50

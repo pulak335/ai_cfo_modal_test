@@ -1,0 +1,4 @@
+transaction_id,company_id,customer_id,invoice_date,due_date,product_id,category,quantity,unit_price,discount,tax,total_amount,payment_status,payment_date,payment_method,sales_channel,salesperson_id
+INV001,CMP001,CUST001,2026-10-01,2026-10-15,PROD001,Electronics,10,5000,500,750,50250,Paid,2026-10-05,Bank,Online,EMP005
+INV002,CMP001,CUST002,2026-10-02,2026-10-16,PROD002,Electronics,5,22000,2000,16200,124200,Partially Paid,2026-10-06,Bank,Direct Sales,EMP002
+INV003,CMP001,CUST003,2026-10-03,2026-10-17,PROD003,Accessories,50,1200,3000,8550,65550,Pending,,Credit Card,Online,EMP005

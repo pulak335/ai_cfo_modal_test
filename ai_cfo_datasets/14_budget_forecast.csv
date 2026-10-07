@@ -1,0 +1,4 @@
+period,category,budget_amount,actual_amount,variance,variance_percent
+2026-11,Revenue,5000000,4500000,-500000,-10%
+2026-11,Operating Expense,1800000,1650000,150000,8.3%
+2026-11,Payroll,1350000,1310000,40000,2.96%
